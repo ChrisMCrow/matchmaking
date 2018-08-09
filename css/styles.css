@@ -1,8 +1,12 @@
 img {
-  width: 300px;
+  width: auto;
   padding-top: 20px;
 }
 
 li {
   display: none;
+}
+
+select {
+  margin-bottom: 30px;
 }

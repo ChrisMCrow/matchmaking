@@ -28,9 +28,9 @@ $(document).ready(function() {
       $("#Wasp").show();
     } else if (gender === "f" && extroversion === "partyAnimal" && feeling === "logical") {
       $("#BW").show();
-    } else if (gender === "f" && extroversion === "partyAnimal" && feeling === "emotional") {s
+    } else if (gender === "f" && extroversion === "partyAnimal" && feeling === "emotional") {
       $("#SW").show();
-    } else if (gender === "f" && extroversion === "lowkey" && feeling === "logical") {
+    } else if (gender === "f" && extroversion === "lowKey" && feeling === "logical") {
       $("#Gam").show();
 
     };
